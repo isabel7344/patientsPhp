@@ -1,0 +1,6 @@
+ptions +FollowSymlinks
+RewriteEngine on
+RewriteRule accueil$  /TpProjetXML/index.php?page=1 [L]
+RewriteRule qui-sommes-nous$  /TpProjetXML/ /index.php?page=2 [L]
+RewriteRule nos-clients-témoignent$  /TpProjetXML/ /index.php?page=3 [L]
+RewriteRule contact$  /TpProjetXML/ /index.php?page=4 [L]

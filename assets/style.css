@@ -1,0 +1,21 @@
+.text-center{
+    color: white;
+}
+label{
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    margin-right: 50px;
+}
+.person-shadow{
+    box-shadow: 0px 2px 15px black;
+}
+
+td {
+    border: 1px solid BLACK;
+}
+
+thead, tfoot {
+    background-color: gray;
+    color: #fff;
+}
